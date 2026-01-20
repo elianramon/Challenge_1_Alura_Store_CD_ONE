@@ -34,5 +34,13 @@ O projeto conta com (no mínimo) 3 tipos de visualizações para facilitar a int
 
 ## 💡 Recomendação Final
 
-*(Espaço reservado para você inserir a sua conclusão após rodar o código)* > Exemplo: Com base na análise, a recomendação é a venda da **Loja X**, pois apresentou o menor faturamento aliado ao maior custo de frete médio, impactando diretamente a margem de lucro.
+Após uma análise técnica detalhada dos dados da rede Alura Store, a recomendação estratégica para o Senhor João é a venda da **Loja 4**.
 
+### Justificativa Baseada em Dados:
+
+* **Desempenho Financeiro:** A **Loja 4** apresentou o menor faturamento entre todas as unidades (), ficando consideravelmente abaixo da Loja 1, que lidera com .
+* **Satisfação do Cliente:** Apesar de não ser a pior nota, a Loja 4 possui a segunda menor média de avaliações (**3.99**), o que demonstra uma fragilidade na percepção de valor pelo cliente em comparação às Lojas 2 e 3.
+* **Contradição do Frete:** Embora a Loja 4 possua o frete médio mais barato (), essa vantagem logística não foi suficiente para impulsionar o faturamento ou a satisfação, indicando que a eficiência de custo não está se traduzindo em volume de vendas ou fidelização.
+* **Mix de Produtos:** Como todas as lojas operam com os mesmos produtos (sendo **Móveis** o carro-chefe e **Utilidades Domésticas** o de menor saída), a baixa performance da Loja 4 está atrelada a fatores externos ou regionais, e não ao catálogo.
+
+**Conclusão:** Mesmo que a Loja 1 possua o frete mais caro e a menor nota de avaliação, ela compensa com o maior faturamento da rede. A Loja 4, por outro lado, apresenta o cenário de menor retorno financeiro, tornando-se o ativo mais indicado para venda para o início do novo empreendimento.
